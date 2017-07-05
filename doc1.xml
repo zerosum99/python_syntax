@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<doc>
+    <branch name="testing" hash="1cdfo45c">
+        text, sourece
+    </branch>
+     <branch name="release01" hash="f200013e">
+        <sub-branch name="subreleas01">
+            xml, sgml
+        </sub-branch>
+    </branch>
+     <branch name="invalid">
+    </branch>
+</doc>
