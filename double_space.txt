@@ -1,0 +1,18 @@
+The ``double_space`` module
+======================
+
+Using ``double_space``
+-------------------
+
+This is an example text file in reStructuredText format.  First import
+``double_space`` from the `double_space`` module:
+
+    >>> import double_space
+
+Now use it:
+
+    >>> double_space.double_space(['Line one.', 'Line two.'])
+    Line one.
+    <BLANKLINE>
+    Line two.
+    <BLANKLINE>
